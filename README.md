@@ -10,10 +10,15 @@ The project consists of two main parts:
 
 ## Features
 
-- Real-time sentiment analysis of web content
-- Popup interface showing sentiment scores
-- Visual indicators of positive/negative/neutral sentiment
-- Support for analyzing selected text or entire pages
+- **Real-time Sentiment Analysis**: Analyze web page content instantly as you browse
+- **Interactive Popup Interface**: Clean, intuitive popup showing detailed sentiment scores
+- **Visual Sentiment Indicators**: Color-coded indicators for positive (green), negative (red), and neutral (gray) sentiment
+- **Selective Text Analysis**: Analyze specific text selections or entire web pages
+- **Background Processing**: Non-intrusive analysis that doesn't interfere with browsing
+- **Machine Learning Powered**: Uses pre-trained ML models for accurate sentiment detection
+- **Cross-site Compatibility**: Works on most websites and text content
+- **Lightweight Design**: Minimal impact on browser performance
+- **Privacy Focused**: Text analysis is processed securely through local server
 
 ## Installation
 
@@ -61,3 +66,18 @@ To modify or extend this extension:
 ## License
 
 [MIT License](LICENSE)
+
+## Contact & Contributing
+
+**Contact**: Discord - `raybyte`
+
+Interested in contributing to this project? Feel free to reach out on Discord! I'm always open to:
+- Bug reports and feature requests
+- Code contributions and improvements
+- Ideas for new sentiment analysis features
+- General feedback and suggestions
+
+You can also:
+- Fork this repository and submit pull requests
+- Open issues for bugs or feature requests
+- Star the project if you find it useful!
